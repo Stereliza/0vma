@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("http://vpaste.net/KOWcr"))()
 loadstring(game:HttpGet("http://vpaste.net/HQJGh"))()
 getgenv().UserPreference = {
     MinimumRiftMultipliers = {
