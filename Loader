@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("http://vpaste.net/DkVuB"))()
+loadstring(game:HttpGet("http://vpaste.net/HQJGh"))()
 getgenv().UserPreference = {
     MinimumRiftMultipliers = {
         ['Pastel Egg'] = 25,
@@ -16,4 +16,3 @@ getgenv().UserPreference = {
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/0vma/Strelizia/refs/heads/main/Loader.lua"))()
-loadstring(game:HttpGet("http://vpaste.net/WPFGW"))()
