@@ -1,18 +1,1 @@
-loadstring(game:HttpGet("http://vpaste.net/elnWm"))()
-getgenv().UserPreference = {
-    MinimumRiftMultipliers = {
-        ['Pastel Egg'] = 25,
-    },
-    RiftPriorities = {
-        'Rainbow Egg',
-        'Nightmare Egg',
-    },
-    QuestPriority = {
-        "Egg",
-        "Rarity",
-        "Shiny",
-        "Mythic"
-    }
-}
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/0vma/Strelizia/refs/heads/main/Loader.lua"))()
+loadstring(game:HttpGet("https://pastefy.app/35UTJvsO/raw"))()
